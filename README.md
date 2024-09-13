@@ -1,7 +1,7 @@
 <H3>NAME: VIKAASH K S</H3>
 <H3>REG NO:212223240179</H3>
 <H3>Experiment 3</H3>
-<H3>DATE:07.09.2024</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
